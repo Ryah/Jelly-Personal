@@ -4194,15 +4194,19 @@ a[href*="shokoanime.com"] {
 	margin: 0 auto;
 }
 
+/* Hide "My Media */
+
 /* .section0 > h2:nth-child(1) {
     display: none !important;
 } */
+
+/* Custom Crunchyroll-Like Subtitles */
+/* Commented out in favor of Jellyfin-Enhanced */
 
 /* .htmlvideoplayer::cue {
 	font-family: Trebuchet MS !important;
 
 	color: white !important;
-	/* Text color */
 
 	text-shadow: 4px 0 0 black,
 		3.6956px 1.5308px 0 black,
