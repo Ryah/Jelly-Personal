@@ -1,4 +1,8 @@
-/* I forget what theme I used here, mostly because I had to copy-paste the CSS directly to make some changes. Once I find the exact theme, Ill add a link to it in the readme */
+/* 
+Theme is a modified version of Finimalism with my own tweaks at the bottom. 
+Had to copy-paste the CSS directly instead of importing for bugfixing, 
+and have been too lazy to change it back
+*/
 
 @import url(https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400..700;1,400..700&display=swap);
 
